@@ -15,3 +15,5 @@ This project examines the size dynamics of crabs before and after molting using 
 
 ## Conclusion
 The analysis demonstrates that molting has a profound and statistically significant impact on crab growth. This process is crucial for crab development, survival, and adaptation within their habitats. The findings emphasize the need for continued research and conservation efforts to support crab populations and their ecosystems.
+
+***For a detailed report, read the PDF***
